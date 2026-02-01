@@ -1,4 +1,10 @@
 cff-version: 1.2.0
+doi: 10.5281/zenodo.18446412
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18446411
+    description: Concept DOI (all versions; always resolves to latest)
 message: "Se você usar estes materiais, por favor cite este repositório."
 title: "Materiais suplementares — Energética da individuação musical"
 version: "v1.0.0"
@@ -18,7 +24,7 @@ preferred-citation:
   type: misc
   title: "Materiais suplementares — Energética da individuação musical"
   authors:
-    - family-names: "[SOBRENOME]"
-      given-names: "[NOME]"
+    - family-names: "Steidle"
+      given-names: "Leon"
   year: 2026
-  url: "[URL_DO_GITHUB_A_INSERIR]"
+  url: "https://github.com/leonsteidle/tese-materiais-suplementares"
