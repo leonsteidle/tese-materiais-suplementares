@@ -1,6 +1,8 @@
 ## Downloads (Zenodo / DOI) — recomendado para citação e arquivamento
 
-Registro arquivado no :contentReference[oaicite:0]{index=0} (materiais suplementares):
+Registro arquivado no Zenodo (materiais suplementares):
+
+## Espelho no GitHub (Release v1.0.0)
 
 - **DOI desta versão (v1.0.0)**: https://doi.org/10.5281/zenodo.18446412  
 - **DOI conceitual (todas as versões / sempre a mais recente)**: https://doi.org/10.5281/zenodo.18446411
