@@ -2,15 +2,13 @@
 
 Registro arquivado no Zenodo (materiais suplementares):
 
-## Espelho no GitHub (Release v1.0.0)
-
 - **DOI desta versão (v1.0.0)**: https://doi.org/10.5281/zenodo.18446412  
 - **DOI conceitual (todas as versões / sempre a mais recente)**: https://doi.org/10.5281/zenodo.18446411
 
 > Para citações acadêmicas (ex.: na tese), recomenda-se citar o DOI da versão (v1.0.0).  
 > Para apontar para o conjunto “sempre atualizado”, use o DOI conceitual.
 
-## Espelho no :contentReference[oaicite:1]{index=1} (Release v1.0.0)
+## Espelho no GitHub (Release v1.0.0)
 
 A mesma versão também está disponível como release:
 - https://github.com/leonsteidle/tese-materiais-suplementares/releases/tag/v1.0.0  
@@ -23,3 +21,5 @@ Assets desta release:
 - cap04-3_serynade_data_public_v2.zip
 - cap04-3_serynade_figs_public_v2.zip
 - cap04-3_accanto_tanzsuite_public_v2.zip
+
+Checksums (SHA-256) para verificação de integridade estão em `SHA256SUMS.txt`.
