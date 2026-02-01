@@ -1,30 +1,39 @@
 cff-version: 1.2.0
+message: "Se você usar estes materiais, por favor cite o DOI 10.5281/zenodo.18446412."
+title: "Materiais suplementares — Energética da individuação musical"
+version: "v1.0.0"
+date-released: "2026-02-01"
+
 doi: 10.5281/zenodo.18446412
+url: "https://doi.org/10.5281/zenodo.18446412"
 
 identifiers:
   - type: doi
     value: 10.5281/zenodo.18446411
-    description: Concept DOI (all versions; always resolves to latest)
-message: "Se você usar estes materiais, por favor cite este repositório."
-title: "Materiais suplementares — Energética da individuação musical"
-version: "v1.0.0"
-date-released: 2026-02-01
+    description: "Concept DOI (all versions; always resolves to latest)"
+
 authors:
   - family-names: "Steidle"
     given-names: "Leon"
     orcid: "https://orcid.org/0000-0003-2751-1946"
+
 repository-code: "https://github.com/leonsteidle/tese-materiais-suplementares"
+
 keywords:
-  - musica
-  - composicao
-  - sonologia
-  - analise musical
-  - reproducibilidade
+  - "música"
+  - "composição"
+  - "sonologia"
+  - "análise musical"
+  - "reprodutibilidade"
+
 preferred-citation:
-  type: misc
+  type: dataset
   title: "Materiais suplementares — Energética da individuação musical"
   authors:
     - family-names: "Steidle"
       given-names: "Leon"
+      orcid: "https://orcid.org/0000-0003-2751-1946"
+  version: "v1.0.0"
+  doi: 10.5281/zenodo.18446412
+  url: "https://doi.org/10.5281/zenodo.18446412"
   year: 2026
-  url: "https://github.com/leonsteidle/tese-materiais-suplementares"
