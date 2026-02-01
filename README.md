@@ -1,7 +1,17 @@
-## Downloads (Release v1.0.0)
+## Downloads (Zenodo / DOI) — recomendado para citação e arquivamento
 
-A versão arquivada dos materiais suplementares está nesta release:
-- https://github.com/leonsteidle/tese-materiais-suplementares/releases/tag/v1.0.0
+Registro arquivado no :contentReference[oaicite:0]{index=0} (materiais suplementares):
+
+- **DOI desta versão (v1.0.0)**: https://doi.org/10.5281/zenodo.18446412  
+- **DOI conceitual (todas as versões / sempre a mais recente)**: https://doi.org/10.5281/zenodo.18446411
+
+> Para citações acadêmicas (ex.: na tese), recomenda-se citar o DOI da versão (v1.0.0).  
+> Para apontar para o conjunto “sempre atualizado”, use o DOI conceitual.
+
+## Espelho no :contentReference[oaicite:1]{index=1} (Release v1.0.0)
+
+A mesma versão também está disponível como release:
+- https://github.com/leonsteidle/tese-materiais-suplementares/releases/tag/v1.0.0  
 (ou sempre a mais recente: https://github.com/leonsteidle/tese-materiais-suplementares/releases/latest)
 
 Assets desta release:
@@ -11,10 +21,3 @@ Assets desta release:
 - cap04-3_serynade_data_public_v2.zip
 - cap04-3_serynade_figs_public_v2.zip
 - cap04-3_accanto_tanzsuite_public_v2.zip
-
-## Nota sobre direitos autorais / materiais restritos
-
-Por restrições de direitos autorais, gravações comerciais e excertos de partitura não são redistribuídos neste repositório nem nas releases.
-Os projetos de análise (por exemplo, Sonic Visualiser) apontam para diretórios `audio_source/`, onde o usuário pode inserir fontes obtidas legalmente.
-Checksums (SHA-256) para verificação de integridade estão em `checksums/SHA256SUMS.txt`.
-
