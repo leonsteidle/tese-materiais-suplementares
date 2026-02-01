@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Se você usar estes materiais, por favor cite este repositório."
+title: "Materiais suplementares — Energética da individuação musical"
+version: "v1.0.0"
+date-released: 2026-02-01
+authors:
+  - family-names: "Steidle"
+    given-names: "Leon"
+    orcid: "https://orcid.org/0000-0003-2751-1946"
+repository-code: "https://github.com/leonsteidle/tese-materiais-suplementares"
+keywords:
+  - musica
+  - composicao
+  - sonologia
+  - analise musical
+  - reproducibilidade
+preferred-citation:
+  type: misc
+  title: "Materiais suplementares — Energética da individuação musical"
+  authors:
+    - family-names: "[SOBRENOME]"
+      given-names: "[NOME]"
+  year: 2026
+  url: "[URL_DO_GITHUB_A_INSERIR]"
